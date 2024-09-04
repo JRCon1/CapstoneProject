@@ -10,7 +10,7 @@ Kelly Criterion: Optimizes for the portfolio that maximizes expected logarithmic
 The study uses four widely popular index ETFs as assets: Russell 2000 (IWM), Dow Jones (DJI), NASDAQ (QQQ), and S&P 500 (VOO). The results are compared against an equally-weighted portfolio and the S&P 500 as benchmarks.
 
 Key Components
-Data: Historical data for the ETFs from 2013 to 2018 is used for training, and data from 2019 to 2023 is used for testing.
+Data: Historical data for the ETFs from 2014 to 2018 is used for training, and data from 2019 to 2023 is used for testing.
 Libraries Used:
 empyrial
 Riskfolio-Lib
